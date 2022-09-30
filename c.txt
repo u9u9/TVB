@@ -6,7 +6,7 @@
 
 "spider":"https://notabug.org/u9/u9/raw/main/jar/888.png;md5;80C9975CED8959F593309BE6019D4E89","wallpaper":"https://tool.weetai.cn/api",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC96aHVrdWl5YW5nL3R5Ly0vcmF3L21hc3Rlci9saXZlLnR4dA=="]}]}],"parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy91OS91OS9yYXcvbWFpbi9saXZlLnR4dA=="]}]}],"parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
 
 {"name":"云you解析","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="}, 
 {"name":"恩哥", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
